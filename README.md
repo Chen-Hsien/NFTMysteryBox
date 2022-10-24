@@ -30,7 +30,7 @@ Mystery Box 中文通常現在叫他[盲盒], 指的是在發行團隊指定的�
         return _blindBoxOpened;
     }
 ```
-部署後可以在opensea看到解盲前的顯示狀態為顯示可愛的怪獸盒子。  
+部署[contract](https://goerli.etherscan.io/address/0xA4e8e9010Fa7F7Be94086AB30322ac1C241E8597)後可以在opensea看到解盲前的顯示狀態為顯示可愛的怪獸盒子。  
 <img width="1458" alt="image" src="https://user-images.githubusercontent.com/24216536/197561721-dffb8249-6291-4d0a-bd37-35468c05642f.png">   
 
 可以先在Remix看到tokenURI已經改為QmRo打頭的openTokenURI   
